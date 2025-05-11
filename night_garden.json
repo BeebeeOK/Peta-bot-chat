@@ -1,0 +1,68 @@
+{
+  "CTk": {
+    "fg_color": ["#1e1e1e", "#0f0f0f"],
+    "bg_color": ["#222222", "#111111"],
+    "text_color": ["#e5c1ff", "#ffefff"]
+  },
+  "CTkFont": {
+    "family": "Segoe UI",
+    "size": 12,
+    "weight": "normal"
+  },
+  "CTkFrame": {
+    "corner_radius": 12,
+    "border_width": 1,
+    "border_color": ["#583d72", "#3b2d4e"],
+    "fg_color": ["#1b1b1b", "#101010"]
+  },
+  "CTkButton": {
+    "corner_radius": 10,
+    "border_width": 1,
+    "border_color": ["#6f4982", "#4c3a60"],
+    "fg_color": ["#583d72", "#3b2d4e"],
+    "hover_color": ["#6f4982", "#4c3a60"],
+    "text_color": ["#ffefff", "#e5c1ff"],
+    "text_color_disabled": ["#999999", "#777777"]
+  },
+  "CTkEntry": {
+    "corner_radius": 8,
+    "border_width": 1,
+    "border_color": ["#6f4982", "#4c3a60"],
+    "fg_color": ["#2a2a2a", "#1c1c1c"],
+    "text_color": ["#e5c1ff", "#ffefff"],
+    "placeholder_text_color": ["#aaa", "#888"]
+  },
+  "CTkLabel": {
+    "text_color": ["#e5c1ff", "#ffefff"]
+  },
+  "CTkTextbox": {
+    "corner_radius": 12,
+    "border_width": 1,
+    "border_color": ["#583d72", "#3b2d4e"],
+    "fg_color": ["#1e1e2e", "#12121a"],
+    "text_color": ["#e5c1ff", "#ffefff"],
+    "scrollbar_button_color": ["#583d72", "#3b2d4e"],
+    "scrollbar_button_hover_color": ["#6f4982", "#4c3a60"]
+  },
+  "CTkScrollbar": {
+    "corner_radius": 100,
+    "width": 12,
+    "button_color": ["#583d72", "#3b2d4e"],
+    "button_hover_color": ["#6f4982", "#4c3a60"]
+  },
+  "CTkOptionMenu": {
+    "corner_radius": 8,
+    "border_width": 1,
+    "border_color": ["#6f4982", "#4c3a60"],
+    "fg_color": ["#30243a", "#1a1a1a"],
+    "button_color": ["#583d72", "#3b2d4e"],
+    "button_hover_color": ["#6f4982", "#4c3a60"],
+    "text_color": ["#e5c1ff", "#ffefff"],
+    "text_color_disabled": ["#999999", "#777777"]
+  },
+  "DropdownMenu": {
+    "fg_color": ["#30243a", "#1a1a1a"],
+    "hover_color": ["#6f4982", "#4c3a60"],
+    "text_color": ["#e5c1ff", "#ffefff"]
+  }
+}
