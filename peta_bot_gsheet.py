@@ -29,7 +29,7 @@ user_input = st.text_input("Write a message")
 if st.button("Send ✉️"):
     timestamp = datetime.now().strftime("%H:%M")
     sheet.append_row([timestamp, sender, user_input.strip()])
-    st.experimental_rerun()
+    st.success("Message sent! Refresh the page if needed.")
 
 # Display chat log
 st.markdown("### 💬 Chat Log")
